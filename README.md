@@ -6,10 +6,8 @@
 
 
 # 🌐 Links:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/black_fury7)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white?logo=Telegram&logoColor=white)](https://t.me/BehappyNow07)
 [![VK](https://img.shields.io/badge/ВКонтакте-%232E87FB.svg?&style=plastic&logo=vk&logoColor=white)](https://vk.com/behappynow07)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white)](https://gitlab.com/Neozetsu)
 
 
 # 💻 Tech Stack:
